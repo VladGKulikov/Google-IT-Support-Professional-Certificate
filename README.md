@@ -1,8 +1,7 @@
 # Google-IT-Support-Professional-Certificate
 
-Google Data Analytics Professional Certificate
-
-https://www.coursera.org/professional-certificates/google-data-analytics
+Google-IT-Support-Professional-Certificate:
+https://www.coursera.org/professional-certificates/google-it-support
 
 Link to my certificate:
 https://coursera.org/share/b1742643bf674e9cba39adbbe987dcf6
