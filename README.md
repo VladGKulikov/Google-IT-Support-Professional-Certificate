@@ -1,5 +1,5 @@
 # [Google-IT-Support-Professional-Certificate](https://www.coursera.org/professional-certificates/google-it-support)
 
-### [My Certificate URL](https://coursera.org/share/b1742643bf674e9cba39adbbe987dcf6)
+### [My Certificate URL](https://www.coursera.org/professional-certificates/google-it-automation)
 
-![image](https://user-images.githubusercontent.com/98630446/155992619-7a4f2e6c-72dd-4ddc-b065-8f04cf6625c7.png)
+![image](https://user-images.githubusercontent.com/98630446/156113853-492d75fd-7094-4af9-985b-40aa6ac67b05.png)
