@@ -9,3 +9,5 @@
 ![image](https://user-images.githubusercontent.com/98630446/156277352-21443b2d-b5c4-4c9b-b66a-f0f97ee4a697.png)
 
 ### [All my badges](https://www.credly.com/earner/earned)
+
+### [All my badges](https://www.credly.com/earner/earned)
